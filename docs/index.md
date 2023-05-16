@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Midjourney Prompts && Cases"
-  text: "More Magic Magination"
-  tagline: My great project tagline
+  name: "Midjourney Cookbook"
+  text: "Prompts & Casees"
+  tagline: Powered by GPTGenius
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Start Up
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GPTGenius
+      link: https://github.com/GPTGenius
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Elegant Prompts
+    details: We provide elegant prompts for your users to easily create beautiful pictures.
+  - title: Multiple Types
+    details: For user experience, we divide the prompts into multiple types to make them more intuitive.
+  - title: View Pictures
+    details: Does not need cost your Midjourney jobs, we provide final pictures of the prompts.
 ---
 
