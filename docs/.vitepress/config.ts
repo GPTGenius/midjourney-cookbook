@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Midjourney Prompts && Cases",
   description: "More Magic Magination",
-  base: "/midjourney-cookbook/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
