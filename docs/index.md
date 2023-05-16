@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Midjourney Cookbook"
-  text: "Prompts & Casees"
+  text: "Prompts & Cases"
   tagline: Powered by GPTGenius
   actions:
     - theme: brand
