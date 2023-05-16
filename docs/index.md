@@ -20,6 +20,6 @@ features:
   - title: Multiple Types
     details: For user experience, we divide the prompts into multiple types to make them more intuitive.
   - title: View Pictures
-    details: Does not need cost your Midjourney jobs, we provide final pictures of the prompts.
+    details: Doesn't need cost your Midjourney jobs, we provide final pictures of the prompts.
 ---
 
