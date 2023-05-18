@@ -25,7 +25,15 @@ export default defineConfig({
               },
             ],
           },
-          // { text: 'Animal' },
+          {
+            text: 'Animal',
+            items: [
+              {
+                text: 'Cat',
+                link: '/animal/cat',
+              },
+            ],
+          },
           // { text: 'Building' },
           // { text: 'Game' }
         ],
