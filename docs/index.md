@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Start Up
-      link: /markdown-examples
+      link: /docs
     - theme: alt
       text: GPTGenius
       link: https://github.com/GPTGenius

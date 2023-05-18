@@ -9,15 +9,19 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/markdown-examples' }
+      { text: 'Docs', link: '/docs' }
     ],
 
     sidebar: [
       {
         text: 'Docs',
         items: [
-          { text: 'Prompts', items: [{ text: 'Human', link: '/markdown-examples' }] },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Human', items: [
+            { text: 'Boy White Shirt Sea', link: '/human/boy_white_shirt_sea' },
+          ] },
+          // { text: 'Animal' },
+          // { text: 'Building' },
+          // { text: 'Game' }
         ]
       }
     ],
