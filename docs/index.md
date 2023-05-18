@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Midjourney Cookbook"
-  text: "Prompts & Cases"
+  name: 'Midjourney Cookbook'
+  text: 'Prompts & Cases'
   tagline: Powered by GPTGenius
   actions:
     - theme: brand
@@ -22,4 +22,3 @@ features:
   - title: View Pictures
     details: Doesn't need cost your Midjourney jobs, we provide final pictures of the prompts.
 ---
-

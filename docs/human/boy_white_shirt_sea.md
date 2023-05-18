@@ -7,6 +7,7 @@ Hidemi Shimada,japanese boy , 18 years old, student, Seaside, boy,White shirt, s
 ```
 
 ## Pictures
+
 ![](https://cdn.discordapp.com/attachments/780968218017136674/1108345261090160670/fatdoge_Hidemi_Shimadajapanese_boy__18_years_old_student_Seasid_3d7e011a-b016-409a-8e97-c1ddca9c3d25.png)
 
 ![](https://cdn.discordapp.com/attachments/780968218017136674/1108345701672431647/fatdoge_Hidemi_Shimadajapanese_boy__18_years_old_student_Seasid_18c24093-2fae-45b7-9d21-62620aba4bb9.png)

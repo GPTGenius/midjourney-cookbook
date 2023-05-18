@@ -1,33 +1,41 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Midjourney Cookbook",
-  description: "More Magic Magination",
-  base: "/midjourney-cookbook/",
+  title: 'Midjourney Cookbook',
+  description: 'More Magic Magination',
+  base: '/midjourney-cookbook/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/docs' }
+      { text: 'Docs', link: '/docs' },
     ],
 
     sidebar: [
       {
         text: 'Docs',
         items: [
-          { text: 'Human', items: [
-            { text: 'Boy White Shirt Sea', link: '/human/boy_white_shirt_sea' },
-          ] },
+          {
+            text: 'Human',
+            items: [
+              {
+                text: 'Boy White Shirt Sea',
+                link: '/human/boy_white_shirt_sea',
+              },
+            ],
+          },
           // { text: 'Animal' },
           // { text: 'Building' },
           // { text: 'Game' }
-        ]
-      }
+        ],
+      },
     ],
-
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/GPTGenius/midjourney-cookbook' }
-    ]
-  }
-})
+      {
+        icon: 'github',
+        link: 'https://github.com/GPTGenius/midjourney-cookbook',
+      },
+    ],
+  },
+});

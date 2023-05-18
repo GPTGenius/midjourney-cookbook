@@ -1,7 +1,6 @@
 import DefaultTheme from 'vitepress/theme';
 import { onMounted } from 'vue';
 import mediumZoom from 'medium-zoom';
-
 import './index.css';
 
 export default {

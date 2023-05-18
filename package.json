@@ -1,5 +1,8 @@
 {
   "devDependencies": {
+    "lint-staged": "^13.2.0",
+    "prettier": "^2.8.8",
+    "simple-git-hooks": "^2.8.1",
     "vitepress": "1.0.0-alpha.75"
   },
   "packageManager": "pnpm@7.29.3",
@@ -13,9 +16,19 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "postinstall": "simple-git-hooks",
+    "prettier": "prettier --write docs"
   },
   "dependencies": {
     "medium-zoom": "^1.0.8"
+  },
+  "lint-staged": {
+    "docs/**/*.{ts,js,css,md}": [
+      "prettier --write"
+    ]
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm exec lint-staged --concurrent false"
   }
 }
