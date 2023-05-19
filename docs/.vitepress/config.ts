@@ -27,6 +27,10 @@ export default defineConfig({
                 text: 'Girl White Dress Sea',
                 link: '/human/girl_white_dress_sea',
               },
+              {
+                text: 'Girl Flower Garden',
+                link: '/human/girl_flower_garden',
+              },
             ],
           },
           {
