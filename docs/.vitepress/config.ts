@@ -31,6 +31,14 @@ export default defineConfig({
                 text: 'Girl Flower Garden',
                 link: '/human/girl_flower_garden',
               },
+              {
+                text: 'Two Girls Golden Hour',
+                link: 'human/two_girls_golden_hour',
+              },
+              {
+                text: 'Train Platform Human With Flowers',
+                link: 'human/train_platform_human_with_flowers',
+              },
             ],
           },
           {
