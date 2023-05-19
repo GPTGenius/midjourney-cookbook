@@ -67,7 +67,24 @@ export default defineConfig({
             ],
           },
           // { text: 'Building' },
-          // { text: 'Game' }
+          {
+            text: 'Game',
+            items: [
+              {
+                text: 'Japanese Ryokan',
+                link: '/game/japanese_ryokan',
+              },
+            ],
+          },
+          {
+            text: 'Product',
+            items: [
+              {
+                text: 'Bluetooth Audio',
+                link: '/product/bluetooth_audio',
+              },
+            ],
+          },
         ],
       },
     ],

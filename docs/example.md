@@ -1,13 +1,11 @@
-# Human
+# Title
 
-## Title
-
-### Prompt
+## Prompt
 
 ```
 prompt
 ```
 
-### Pictures
+## Pictures
 
 ![]()
