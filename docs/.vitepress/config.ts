@@ -20,6 +20,22 @@ export default defineConfig({
             text: 'Human',
             items: [
               {
+                text: 'Girl Flowers Car Colorful',
+                link: '/human/girl_flowers_car_colorful',
+              },
+              {
+                text: 'Girl Flowers Car White',
+                link: '/human/girl_flowers_car_white',
+              },
+              {
+                text: 'Boy Flowers Car Colorful',
+                link: '/human/boy_flowers_car_colorful',
+              },
+              {
+                text: 'Boy Flowers Car White',
+                link: '/human/boy_flowers_car_white',
+              },
+              {
                 text: 'Boy White Shirt Sea',
                 link: '/human/boy_white_shirt_sea',
               },
@@ -36,7 +52,7 @@ export default defineConfig({
                 link: 'human/two_girls_golden_hour',
               },
               {
-                text: 'Train Platform Human With Flowers',
+                text: 'Train Platform Human',
                 link: 'human/train_platform_human_with_flowers',
               },
             ],
