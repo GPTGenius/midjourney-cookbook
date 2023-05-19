@@ -23,6 +23,10 @@ export default defineConfig({
                 text: 'Boy White Shirt Sea',
                 link: '/human/boy_white_shirt_sea',
               },
+              {
+                text: 'Girl White Dress Sea',
+                link: '/human/girl_white_dress_sea',
+              },
             ],
           },
           {
